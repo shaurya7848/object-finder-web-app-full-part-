@@ -1,0 +1,48 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+.header{
+    width: 100%;
+    margin: 0px;
+    font-size: large;
+}
+.input_class{
+    margin: 5px;
+    border-radius: 5px;
+    width: 20%;
+    color: green;
+    background-color: greenyellow;
+    border: 4px dashed grey;
+}
+.object_name_label{
+    font-weight: bold;
+    font-size: 20px;
+}
+canvas{
+    border-radius: 10px;
+    background-color: red;
+    box-shadow: 7px 7px 7px white;
+    margin-left: 150px;
+    margin-top:20px;
+}
+p{
+    color: black;
+    margin-bottom: 0px;
+    font-size: small;
+}
+#start_button_id{
+    margin-top: 15px;
+    width:100px;
+    height:50px;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+
+#status , #object_found{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right:10px ;
+}
